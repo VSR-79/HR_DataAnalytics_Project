@@ -2,7 +2,7 @@
 Created during my internship at AI Variant using Power BI, Excel, SQL, and Tableau. The dashboards cover key HR modules such as employee performance, recruitment, attrition, and workforce demographics.
 That's an interesting request! The image you provided is an **HR Data Analytics Dashboard**, which displays various metrics about a company's workforce.
 
-[Download HR_DataAnalytics_project_files](https://drive.google.com/file/d/10A3_ll_7NrPjiLbkL7utYmnnSQTJAOCu/view?usp=sharing)
+[Download HR_DataAnalytics_project_files](https://drive.google.com/drive/folders/1sgPyErVY-UEWXk43hYFtYRmcsUCh0EWd?usp=sharing)
 ## 📊 HR Data Analytics Dashboard 
 This dashboard provides a snapshot of the company's workforce across several key HR dimensions.
 ### 🌟 Key Performance Indicators (KPIs)
