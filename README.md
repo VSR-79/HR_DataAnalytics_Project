@@ -2,9 +2,6 @@
 Created during my internship at AI Variant using Power BI, Excel, SQL, and Tableau. The dashboards cover key HR modules such as employee performance, recruitment, attrition, and workforce demographics.
 That's an interesting request! The image you provided is an **HR Data Analytics Dashboard**, which displays various metrics about a company's workforce.
 
-I can certainly describe the insights and data points presented in this dashboard. However, the dashboard itself **does not contain any information about GitHub**.
-
-GitHub is a platform for **version control and collaborative software development** (using Git). The data presented here is focused on **Human Resources (HR) metrics** like employee demographics, attrition, and tenure.
 ## 📊 HR Data Analytics Dashboard 
 This dashboard provides a snapshot of the company's workforce across several key HR dimensions.
 ### 🌟 Key Performance Indicators (KPIs)
